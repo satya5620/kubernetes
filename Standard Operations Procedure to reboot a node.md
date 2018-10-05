@@ -42,7 +42,7 @@ get on s05 master node
 *** the next command open business for this node ***
 kubectl uncordon hostname
 
-Reference: Safely Drain a Node while Respecting Application SLOs
+Reference: https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/
 
 
 ```
